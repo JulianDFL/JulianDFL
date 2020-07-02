@@ -4,8 +4,8 @@ This is our first repository
 
 ## Projects
 
-# Coding
-# line changes
+### Coding
+### line changes
 
 ## Coming Soon
 
